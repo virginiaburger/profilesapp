@@ -1,0 +1,19 @@
+VMB, Dec 17, 2024
+# Following https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent to set up a key for github
+
+Your identification has been saved in /Users/virginia/.ssh/id_ed25519
+Your public key has been saved in /Users/virginia/.ssh/id_ed25519.pub
+The key fingerprint is:
+SHA256:BdIs58wrSJZDX/mOdWMHLXFGbPWGA/ogvRotVKGRpm0 virginia@blackbirdlab.org
+The key's randomart image is:
++--[ED25519 256]--+
+|      .oooo.o=+..|
+|    . ..O* .o++..|
+|   . o @+.=  +o o|
+|    = o.E+o++ .o |
+|   o o .S=oo.o   |
+|    . . o+.      |
+|       ..        |
+|                 |
+|                 |
++----[SHA256]-----+
